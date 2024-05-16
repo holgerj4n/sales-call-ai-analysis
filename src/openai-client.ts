@@ -16,6 +16,17 @@ export class OpenAIClient {
         this._model = model;
     }
 
+    /**
+     * Calls the OpenAI chat completion API.
+     * 
+     * @param messages - An array of message parameters to be sent to the OpenAI API.
+     * 
+     * @throws Error if the finish reason returned by the OpenAI API is not "stop".
+     * @throws Error if the response from the OpenAI API does not contain content.
+     * 
+     * @returns A promise that resolves with an object containing the ID, creation time, and
+     * message content of the chat completion.
+     */
     public async createChatCompletion(messages: ChatCompletionMessageParam[]): Promise<ChatCompletionResponse> {
         const data = {
             model: this._model,

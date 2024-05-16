@@ -2,6 +2,17 @@ import { ConfigReader } from './config';
 import { OpenAIClient } from './openai-client';
 import { answerQuery, generateSalesTranscript, summarizeTranscript } from './interactions';
 
+/**
+ * The main entry point of the application.
+ * 
+ * Executes one of three commands based on the command-line arguments:
+ * - generate: generates a sales call transcript
+ * - summarize: summarizes a sales call transcript
+ * - answer: answers a user query in relation to a provided sales call transcript
+ * 
+ * @throws Error if the command is missing.
+ * @throws Error if the command is not one of the supported commands (generate, summarize, answer).
+ */
 async function main() {
 	if (process.argv.length < 3) {
 		throw new Error("Usage: node main.js command [file_name] [query]");
