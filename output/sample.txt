@@ -1,0 +1,27 @@
+00:00:00 Alex (solestyles.com): Good morning, this is Alex from SoleStyles, may I speak with someone from Nike sales please?
+
+00:00:03 Taylor (nike.com): Hi Alex, this is Taylor from Nike. How can I assist you today?
+
+00:00:07 Alex (solestyles.com): Hi Taylor, we're looking to stock up on some new sneaker models. Do you have any upcoming releases that we could order?
+
+00:00:12 Taylor (nike.com): Absolutely, Alex. We've got some exciting new models coming out next month. How many pairs are you looking to order?
+
+00:00:17 Alex (solestyles.com): We're thinking of starting with a batch of 500 pairs to test the market. Can you accommodate that?
+
+00:00:22 Taylor (nike.com): 500 pairs sounds reasonable. Let me check our inventory and production schedule to ensure we can fulfill your order.
+
+00:00:28 Alex (solestyles.com): Great, we're really eager to get these new styles in our store. Do you have any details on the designs we can expect?
+
+00:00:33 Taylor (nike.com): I can definitely provide you with some previews and specifications once I confirm the availability of the models you're interested in.
+
+00:00:38 Alex (solestyles.com): That would be fantastic, Taylor. We appreciate your assistance with this. When do you think we can expect to receive the shipment?
+
+00:00:43 Taylor (nike.com): Once I finalize the order details, I'll provide you with an estimated delivery date. Rest assured, we'll do our best to get the sneakers to you as soon as possible.
+
+00:00:49 Alex (solestyles.com): Sounds good, Taylor. Thanks for your help with this. We look forward to doing business with Nike again.
+
+00:00:53 Taylor (nike.com): It's my pleasure, Alex. We value our partnership with SoleStyles and aim to provide you with the best products and service. I'll be in touch shortly with the order confirmation.
+
+00:00:58 Alex (solestyles.com): Perfect, looking forward to it. Have a great day, Taylor.
+
+00:01:01 Taylor (nike.com): You too, Alex. Take care.

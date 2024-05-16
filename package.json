@@ -1,0 +1,19 @@
+{
+  "name": "sales-call-ai-analysis",
+  "version": "1.0.0",
+  "description": "A collection of tools to generate and analyze sales call transcripts using the OpenAI GPT API",
+  "main": "build/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "holgerj4n",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "jest": "^29.7.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "openai": "^4.47.1"
+  }
+}
