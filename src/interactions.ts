@@ -27,8 +27,7 @@ export async function generateSalesTranscript(
     }];
 	const response = await client.createChatCompletion(prompt);
 
-    if (!fileName || !fileName.startsWith('./output/'))
-        fileName = `./output/${fileName || response.id}`;
+    fileName = `./output/${fileName || response.id}`;
 
     fs.writeFileSync(fileName, response.message);
 	console.log(response.message);

@@ -4,7 +4,10 @@
   "description": "A collection of tools to generate and analyze sales call transcripts using the OpenAI GPT API",
   "main": "build/main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "gen": "node --no-deprecation build/main.js generate",
+    "sum": "node --no-deprecation build/main.js summarize",
+    "ask": "node --no-deprecation build/main.js answer"
   },
   "author": "holgerj4n",
   "license": "ISC",
