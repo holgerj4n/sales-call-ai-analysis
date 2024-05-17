@@ -26,6 +26,10 @@ To use the OpenAI GPT API you will need a valid API key. A new key can be create
 export OPENAI_API_KEY="your_api_key"
 ```
 
+### GPT Version
+
+By default this application uses `gpt-3.5-turbo-16k`. If you would like to change this, edit the config value in `config/default.json`.
+
 ## Usage
 
 1. Generate a sales call transcript
